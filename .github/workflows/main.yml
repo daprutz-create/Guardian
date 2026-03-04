@@ -1,3 +1,0 @@
-cd android
-./gradlew assembleRelease
-# Output: android/app/build/outputs/apk/release/app-release.apk
